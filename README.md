@@ -2,10 +2,10 @@
 
 Some brief bio;
 
-- 🔭 I’m currently working on E-commerce platform site
+- 🔭 I’m currently working on Alliance4Rights mobile application
 - 🌱 I’m currently learning Python, Django, React!
 - 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with React
 - 💬 Ask me about Django,Python
 - 📫 How to reach me: 
 - 😄 Pronouns: he/his
