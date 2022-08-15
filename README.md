@@ -2,11 +2,11 @@
 
 Some brief bio;
 
-- 🔭 I’m currently building a startup Alliance4Rights 
-- 🌱 I’m currently learning Python, Flask, FastAPI, Docker, Information Security
-- 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with Flask
-- 💬 Ask me about Python
+- 🔭 I’m currently a learning software Engineer at ALX Software Engineering Program
+- 🌱 I’m currently learning C, Python, Machine Learning, Cloud Computing,  Artificial Intelligence and Big Data
+- 👯 I’m looking to collaborate on projects with Engineers in the same fields am passionate about
+- 🤔 I’m looking for help uhmm .... ( oer use case basis )
+- 💬 Ask me about Python, Data Science!
 - 📫 How to reach me: 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Coding your imagination.
@@ -28,13 +28,6 @@ Some brief bio;
 <a href="https://instagram.com/">
   <img align="left" alt="Martin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/">
-  <img align="left" alt="Martin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/">
-  <img align="left" alt="Martin's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
 <br/>
 <br/>
 
