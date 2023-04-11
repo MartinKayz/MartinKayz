@@ -2,7 +2,6 @@
 
 Some brief bio;
 
-- 🔭 I’m currently a learning software Engineer at ALX Software Engineering Program
 - 🌱 I’m currently learning C, Python, Machine Learning, Cloud Computing,  Artificial Intelligence and Big Data
 - 👯 I’m looking to collaborate on projects with Engineers in the same fields am passionate about
 - 🤔 I’m looking for help uhmm .... ( oer use case basis )
